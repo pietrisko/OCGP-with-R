@@ -1,4 +1,4 @@
-GPR_OCC_score <-  function (training,test){
+OCGP <-  function (training,test){
   
   x <- as.matrix(training)
   y <- as.matrix(test)
